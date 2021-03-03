@@ -1,5 +1,5 @@
 #EXTM3
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Canais | Eleven",Eleven Sports 1 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_%282017%29.svg/revision/latest/scale-to-width-down/340?cb=20200222232816" group-title="Canais | Eleven",Eleven Sports 1 
 http://srvx.io:80/live/7885037935/fireurl.co/73254.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Canais | Eleven",Eleven Sports 2 
 http://srvx.io:80/live/7885037935/fireurl.co/73255.ts
