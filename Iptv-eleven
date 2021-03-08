@@ -1,9 +1,25 @@
 #EXTM3
-#EXTINF:-1 tvg-logo="https://ia801500.us.archive.org/29/items/eleven-sports-1/Eleven_Sports_1.png" group-title="Canais | Eleven",Eleven Sports 1 
+#EXTINF:-1 tvg-logo="https://ia801402.us.archive.org/15/items/eleven-1/Eleven_1.png" group-title="Canais | Eleven",Eleven Sports 1 HD 
 http://77.54.145.209:81/play/a00a?fbclid=IwAR1hAsSUqGqMAQkITgOmFpeKU2H3LhE7RG0FwZrOpLMOoQ0csUVpqO2gESY
-#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/3/items/eleven-2/Eleven_2.png" group-title="Canais | Eleven",Eleven Sports 2 
+#EXTINF:-1 tvg-logo="https://ia601404.us.archive.org/3/items/eleven-2/Eleven_2.png" group-title="Canais | Eleven",Eleven Sports 2 HD
 http://77.54.145.209:81/play/a03d?fbclid=IwAR2Z6zjDebckdlZZ4W5J0VIhq_Bov8tvbpcWh3-uuAFJlGlcJNLvi38UCZg
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo.png" group-title="Canais | Benfica TV",Benfica TV
+#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo.png" group-title="Canais | Benfica TV",Benfica TV HD
 http://185.183.34.175:3333/sunshine/iHu8Vd3xzbOzrua361Qhs4sGLp_LnfGwC6sSLnhxnlNWUsm5KozkLKh0dtBJYxiv70Swcs3vJm5WfuytEYYsjFwyyDR6TUkGdnTb5s8WRy47RpXGBF-I8xvb8CMyK576UPGAzwZZBV9AcEJgQEvMVhnKLDR9RBO_odQyJRg-Gq9i3N7N5WhyriaoV86B9Q7P/v.ts
-#EXTINF:-1 tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo.png" group-title="Canais | Sport TV",Sport TV 1 HD
+#EXTINF:-1 tvg-logo="https://ia601406.us.archive.org/5/items/sport-tv-1-hd/Sport_TV1_HD.png" group-title="Canais | Sport TV HD",Sport TV 1 HD
 http://185.183.34.175:3333/sunshine/GQGucirdMSpesJlV4WCph-c8qPKoMY3Yj9nucaCKHyEncRB4YUxGxvEIONyfHzDpUfHPUtbcdlObbld7qlNZs18Txi20pLw67U-9h5A6rRLPpryB1H8sqk6iZYCAgwZxVhlFus2iubIhDWA5dwRbQChvD-Zdhv_NGdAQUCIrNdmAWRpTVRchuvuO5V2fbkNn/v.ts
+#EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/23/items/sportingtvf-6a-35257/Sport_TV2_HD.png" group-title="Canais | Sport TV HD",Sport TV 2 HD
+http://185.183.34.175:3333/sunshine/uJHTejb8keRS2DfA59GPsD_B69x6x7glDqjk8YbbjQHNby-E2BPqoyoT0m_T3RX8Aq25dI19Zo8S_8fYVBJUbFrMFAw8MzXVY4HyDqT-yzyTqw-9cwRzeuCmDucP0g65qqo2LRHrdBmIW0YaHYeWdlOXoazvrz1ZFTEW_tFPQpupbeQEr4UHJwqxf9LUp8p8/v.ts
+#EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/23/items/sportingtvf-6a-35257/Sport_TV3_HD.png" group-title="Canais | Sport TV HD",Sport TV 3 HD
+http://185.183.34.175:3333/sunshine/_KebS9fA0mB5rTRVN-SqNRC62EmajA_ZrXGTre6i5_foafHlF1P2nYhnYs8SFcwNHeRwD9Tq2eztYOlvaD3v6lUV0Iwuz2vwJhJqJq8WZIswxS8x0wPTgou9yMD99VB2oOY0Prv6K0_zNh3uYmcbLpRp1Wn3wIgyctSVu1-Q-D3uayxN07QfXpw7YsQ84tVe/v.ts
+#EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/23/items/sportingtvf-6a-35257/Sport_TV4_HD.png" group-title="Canais | Sport TV HD",Sport TV 4 HD
+http://185.183.32.8:3333/sunshine/8m7e1yTRvUC--2drPPCt0gXR1MYNHmEFJ0_InhKvu2oKeem-TnJGlR_Ec5fBJpTlaMexk6J6C7QTs198eZbdyuGtZiczEqeAxnNoXkxAfT_gaaJ__3t9lSprhFupA04XKESA4DnJqRema3KfX6GXhiPzD55a3tJbNMG8HCLqtTybujkbV2yoevZkKsxg5EYd/v.ts
+#EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/23/items/sportingtvf-6a-35257/Sport_TV5_HD.png" group-title="Canais | Sport TV HD",Sport TV 5 HD
+http://185.183.32.8:3333/sunshine/UbsobHZ6byyXKZLJOvPtqMXdnUDi9FJGSfrPxeSbXT-ntkeyFUpCQig6KLYJaMDULGrFxeK3xqcK_zzexUwnLq6aUMf1feo1V4SJHxx82CaIPtGcuV6fY1h3ljBN1-k6d46K9l7m9AC-w3hMqZmPNQ7oHaruHQBIt_gblkNPnH0cw8sYiVy0P8L_cgZXCpu5/v.ts
+#EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/23/items/sportingtvf-6a-35257/Sport_TV%252B_HD.png" group-title="Canais | Sport TV HD",Sport TV + HD
+http://185.183.32.8:3333/sunshine/20144rSXI5Ub2b_ispTl9VQgDC01dNveHHMDvNFUT156yBAHyc-nYczwX9vMKCN_wJIBYP3C2cECbDP-hbAnzxNIbaaaSdsZhqChe4UX31EvhnnmxJyybMKUJwwr_lXnnJxFDRoQ6_HVUOROi1ahHxADkf7dx90e7NSlU0BxX8N-gR8SuKM72YbIVImr9eGk/v.ts
+#EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/23/items/sportingtvf-6a-35257/Sportingtvf6a35257.png" group-title="Canais | Sporting TV",Sporting TV HD
+http://185.183.34.174:3333/sunshine/JSvCKjvUTi7QNfsHuhBQTbqf6XB-sxXE-EPjqBqjXBtmaV2rAWSaqaAfGt0PhquI0sJyDMbQdCIBN5KAb4BYq7ei-euUKlLt0m3WpInpOscrgyTsai4yMZJiACikbUcvmi__yXXY_9Fsu691GamC5-Vz0TmUUvLu6Xmq-gQRyofep2bVa4o95m_8wXSjaP5E/v.ts
+#EXTINF:-1 tvg-logo="https://ia801504.us.archive.org/23/items/sportingtvf-6a-35257/NBA_TV_2017.png" group-title="Canais | NBA TV",NBA TV Live
+http://185.183.32.8:3333/sunshine/eKam0xN1KPC-q4H9EsEhePPIGUWEO-tf30fJKXIoQ4x2K3N2J4aChB_DKk3vOFRSI3urG2Um4uQRkCdfs3ABJBdBD-R2E7lf7jvrrpgdx9YwAaz_ZZbP4emzuv2G0Y4T0csW6V_d8UycaLfzWbeP0H5DgaDm9OsTlvlLC9qfSX3AWDPk3sxTlF8N4BfgUBv0/v.ts
+#EXTINF:-1 tvg-logo="https://ia601504.us.archive.org/23/items/sportingtvf-6a-35257/Nbatv.page_.png" group-title="Canais | NBA TV",NBA TV 
+http://185.183.32.8:3333/sunshine/xbNUQW-5Bn0muENI23rYvwxLciK-myjNHxAWhk_HySzppLnPoJpOmhB6Kyjy-OWePuCqf8E_x_12qnsf-9VKuEVsOOkE2TitLFsrBW58O0X5HrJMIeoJdblNx3Pf74HmXVDZdaq4_EOYXL9KKQ7mCJFPvnj9bCRJOhx94WnTBX4DK5aEJSvpJdc9xTZW-EQB/v.ts
